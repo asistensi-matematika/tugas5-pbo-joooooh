@@ -1,0 +1,602 @@
+[
+    {
+        "judul_buku": "buku_0",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 119,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_1",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 186,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_2",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 186,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_3",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 157,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_4",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 131,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_5",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 155,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_6",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 155,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_7",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 106,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_8",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 199,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_9",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 197,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_10",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 105,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_11",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 157,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_12",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 134,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_13",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 118,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_14",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 135,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_15",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 127,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_16",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 134,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_17",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 110,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_18",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 117,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_19",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 131,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_20",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 154,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_21",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 163,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_22",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 137,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_23",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 166,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_24",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 146,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_25",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 120,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_26",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 195,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_27",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 100,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_28",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 107,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_29",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 151,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_30",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 193,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_31",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 177,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_32",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 165,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_33",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 100,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_34",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 174,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_35",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 124,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_36",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 103,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_37",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 199,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_38",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 131,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_39",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 179,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_40",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 121,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_41",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 191,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_42",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 167,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_43",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 142,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_44",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 184,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_45",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 136,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_46",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 181,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_47",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 141,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_48",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 116,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_49",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 150,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_50",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 176,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_51",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 100,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_52",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 179,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_53",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 189,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_54",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 188,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_55",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 147,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_56",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 112,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_57",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 138,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_58",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 133,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_59",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 129,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_60",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 163,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_61",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 200,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_62",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 194,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_63",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 107,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_64",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 156,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_65",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 104,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_66",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 168,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_67",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 186,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_68",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 141,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_69",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 105,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_70",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 135,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_71",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 181,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_72",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 185,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_73",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 128,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_74",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 107,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_75",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 150,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_76",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 154,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_77",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 168,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_78",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 173,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_79",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 195,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_80",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 103,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_81",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 184,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_82",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 126,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_83",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 199,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_84",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 110,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_85",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 142,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_86",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 159,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_87",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 115,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_88",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 182,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_89",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 183,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_90",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 138,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_91",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 151,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_92",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 150,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_93",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 111,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_94",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 176,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_95",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 200,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_96",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 145,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_97",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 194,
+        "jenis_buku": "non_fiksi"
+    },
+    {
+        "judul_buku": "buku_98",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 191,
+        "jenis_buku": "fiksi"
+    },
+    {
+        "judul_buku": "buku_99",
+        "pengarang": "Crystal Widjaja",
+        "jumlah_halaman": 169,
+        "jenis_buku": "non_fiksi"
+    }
+]
